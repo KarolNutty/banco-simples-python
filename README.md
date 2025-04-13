@@ -16,6 +16,7 @@ Aqui você pode simular operações básicas de um banco de forma simples e prá
 
 <img src="imagens/print.png" alt="Modo de usar" width="500px">
 
+
 ---
 
 ## Como rodar o projeto 🚀
