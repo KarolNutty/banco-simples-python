@@ -15,7 +15,7 @@ Um projeto de terminal feito em Python que simula operações bancárias simples
 
 ## Demonstração
 
-![Modo de usar](imagens/modo%20de%20usar.png)
+![Demonstração do projeto](imagens/print.png)
 
 ---
 
@@ -24,9 +24,3 @@ Um projeto de terminal feito em Python que simula operações bancárias simples
 1. Clone o repositório:
    ```bash
    git clone https://github.com/KarolNutty/banco-simples-python.git
-
-
-Feito com 💙 por [Karoline](https://github.com/KarolNutty)
-
----
-
