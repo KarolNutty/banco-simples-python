@@ -1,50 +1,41 @@
-# Sistema BancÃ¡rio em Python
+# Banco Digital em Python 🐍🏦
 
-Este Ã© um projeto simples de *Sistema BancÃ¡rio* desenvolvido em Python como exercÃ­cio prÃ¡tico para reforÃ§ar conceitos de:
+Este projeto foi desenvolvido como parte do meu bootcamp de Python.  
+O objetivo é simular um sistema bancário simples para praticar lógica de programação, estruturas de repetição, condicionais e manipulação de variáveis.
 
-- VariÃ¡veis
-- Estruturas de decisÃ£o (if, elif, else)
-- Estruturas de repetiÃ§Ã£o (while)
-- OperaÃ§Ãµes bÃ¡sicas com nÃºmeros
+## Funcionalidades ✨
+- **Depósito:** Adicione valores à conta.
+- **Saque:** Realize saques respeitando limites de valor e quantidade diária.
+- **Extrato:** Visualize todas as movimentações realizadas.
 
-## Funcionalidades
+## Regras 📋
+- Limite de **3 saques por dia**.
+- Saque máximo de **R$ 500,00** por operação.
+- Apenas valores positivos são aceitos para depósito e saque.
 
-- DepÃ³sito de valores
-- Saque com limite de valor e quantidade de saques
-- Extrato de movimentaÃ§Ãµes e saldo
-- Menu de operaÃ§Ãµes interativo
+## Tecnologias Utilizadas 🛠️
+- [Python 3](https://www.python.org/)
 
-## Regras do sistema
-
-- Cada saque tem limite de *R$ 500,00*.
-- O usuÃ¡rio pode realizar atÃ© *3 saques diÃ¡rios*.
-- NÃ£o Ã© permitido sacar valores superiores ao saldo disponÃ­vel.
-- Valores de depÃ³sito e saque devem ser positivos.
-
-## Como executar
-
-1. Clone o repositÃ³rio:
-
-bash
-git clone https://github.com/seu-usuario/sistema-bancario-python.git
-
-
+## Como Rodar o Projeto 🚀
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
 2. Acesse a pasta do projeto:
+   ```bash
+   cd nome-do-repositorio
+   ```
+3. Execute o programa:
+   ```bash
+   python3 banco.py
+   ```
 
-bash
-cd sistema-bancario-python
+## Status do Projeto 📈
+✅ Projeto Finalizado!
 
+---
 
-3. Execute o script:
+Feito com 💙 por [Karoline](https://github.com/KarolNutty)
 
-bash
-python sistema_bancario.py
+---
 
-
-## Tecnologias
-
-- Python 3
-
-## Autora
-
-Feito com dedicaÃ§Ã£o por *Karoline*
