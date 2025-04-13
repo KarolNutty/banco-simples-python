@@ -15,7 +15,7 @@ Um projeto de terminal feito em Python que simula operações bancárias simples
 
 ## Demonstração
 
-![Demonstração do projeto](imagens/modo de usar.png)
+![Modo de usar](imagens/modo%20de%20usar.png)
 
 ---
 
