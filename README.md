@@ -45,4 +45,4 @@ Um projeto de terminal feito em Python que simula operações bancárias simples
 ## Sobre 💙
 
 Feito com 💙 por [Karoline](https://github.com/KarolNutty)
-```
+
